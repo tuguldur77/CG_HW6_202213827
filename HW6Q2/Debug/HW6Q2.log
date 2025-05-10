@@ -1,0 +1,4 @@
+﻿  HW6Q2.cpp
+C:\Users\tugul\Downloads\CG_HW6_202213827\HW6Q2\HW6Q2.cpp(135,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tugul\Downloads\CG_HW6_202213827\HW6Q2\HW6Q2.cpp(136,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  HW6Q2.vcxproj -> C:\Users\tugul\Downloads\CG_HW6_202213827\bin\HW6Q2.exe

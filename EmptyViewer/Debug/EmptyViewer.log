@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (EmptyViewer.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  HW6Q1.cpp
+C:\Users\tugul\Downloads\CG_HW6_202213827\EmptyViewer\HW6Q1.cpp(135,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tugul\Downloads\CG_HW6_202213827\EmptyViewer\HW6Q1.cpp(136,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  EmptyViewer.vcxproj -> C:\Users\tugul\Downloads\CG_HW6_202213827\bin\HW6Q1.exe
