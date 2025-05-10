@@ -1,22 +1,26 @@
-# Ignore Visual Studio folders
-.vs/
-*.vcxproj.user
-*.VC.db
-*.suo
-*.ipch/
-*.user
+# Build and debug
 *.obj
-*.log
-*.pch
 *.exe
 *.ilk
-*.aps
-*.ncb
-*.opendb
-*.idb
-*.pdb
-*.tmp
-*.cache
-*.tlog
 *.log
+*.pch
+*.pdb
+*.idb
+*.tlog
 *.lastbuildstate
+*.tmp
+
+# Visual Studio folders
+.vs/
+*.VC.db
+*.suo
+*.user
+*.ipch/
+*.opendb
+*.cache
+
+# Backup or temp
+*.bak
+*.old
+*.orig
+*.swp
