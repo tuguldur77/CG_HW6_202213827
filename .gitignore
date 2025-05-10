@@ -1,25 +1,22 @@
 # Ignore Visual Studio folders
 .vs/
-*.sdf
-*.suo
-*.user
+*.vcxproj.user
 *.VC.db
+*.suo
 *.ipch/
-*.tmp
-*.TMP
-*.log
-*.pdb
-
-# Build artifacts
-Debug/
-Release/
+*.user
 *.obj
-*.exe
-*.dll
-*.lib
+*.log
 *.pch
-
-# Ignore CMake/GLFW artifacts if any
-CMakeFiles/
-CMakeCache.txt
-build/
+*.exe
+*.ilk
+*.aps
+*.ncb
+*.opendb
+*.idb
+*.pdb
+*.tmp
+*.cache
+*.tlog
+*.log
+*.lastbuildstate
